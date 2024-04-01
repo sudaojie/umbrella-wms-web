@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project",
+"productVersion": "0.1",
+"dataUrl": "WebGL231031V2.data.unityweb",
+"wasmCodeUrl": "WebGL231031V2.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL231031V2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1c1"
+}
